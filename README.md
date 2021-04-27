@@ -4,12 +4,13 @@ This is a Javascript project I had made that searches the OMDB API database, ret
 
 ## Getting Started
 
-You can view the app here: 
+You can view the app here: https://kmulligan01.github.io/Movie-Fight/
+Start typing in a movie on either side, select movie from the autocomplete dropdown, and you will see your movie and stats displayed. The stats in green are the winners, and the stats in yellow are the losers.
 
 ## Built With
 
 * Javascript ES6
-* Bulma CSS
+* Bulma.io CSS
 * HTML5
 * http://www.omdbapi.com/ - API where questions and answers are fetched from
 
